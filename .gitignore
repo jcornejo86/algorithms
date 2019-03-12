@@ -1,0 +1,22 @@
+# Python
+__pycache__
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+coverage.xml
+
+# Pytest cache
+.pytest_cache
+
+# Reports
+reports/*
+!reports/.gitkeep
+
+# Sonar
+sonar-project.properties
+
+# Alfred Secrets file
+dogstatsd.env
+sc_partner_content_protection.env
