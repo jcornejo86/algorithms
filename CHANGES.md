@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.3.0] - 2021-08-08
+
+Re-structure working directory:
+
+- Move theory problems under `concept`
+- Rename exercises with prefix of the concept.
+
+Added Selection Sort concept
+
+Added an implementation of Selection Sort in python
+
 ## [0.2.0] - 2021-08-01
 
 Re-structure working directory:

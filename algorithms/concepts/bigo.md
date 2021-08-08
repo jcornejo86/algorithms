@@ -19,6 +19,13 @@ Generally you want to choose the most efficient algorithm—whether you’re try
 | O(2^n)       | Exponential |                       |
 | O(n!)        | Factorial   | Traveling Salesperson |
 
+## Running Times Array vs List
+
+|              | Arrays  | Lists  |
+|--------------|---------|--------|
+| Reading      | O(1)    | O(n)   |
+| Insertion    | O(n)    | O(1)   |
+| Deletion     | O(n)    | O(1)   |
 
 ## Notes
 

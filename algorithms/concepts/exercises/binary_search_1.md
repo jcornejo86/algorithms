@@ -32,4 +32,4 @@ Now that we have the equation in the same base, we can remove the base. That giv
 
 x = 7
 
-**So the maximum number of steps that would take is 7.**
+**The maximum number of steps that would take is 7.**
