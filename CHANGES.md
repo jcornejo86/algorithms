@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.0] - 2021-08-11
+
+Renamed files concepts, prepending a numeric index in order to have them sorted.
+
+Added Recursion concept
+
 ## [0.3.0] - 2021-08-08
 
 Re-structure working directory:
