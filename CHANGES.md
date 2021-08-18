@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.4.1] - 2021-08-11
+
+Added QuickSort concept
+
 ## [0.4.0] - 2021-08-11
 
 Renamed files concepts, prepending a numeric index in order to have them sorted.
