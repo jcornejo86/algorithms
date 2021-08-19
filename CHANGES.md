@@ -1,6 +1,10 @@
 # Changelog
 
-## [0.4.1] - 2021-08-11
+## [0.4.1] - 2021-08-18
+
+Added HashTable concept
+
+## [0.4.1] - 2021-08-17
 
 Added QuickSort concept
 
