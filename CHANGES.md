@@ -1,6 +1,10 @@
 # Changelog
 
-## [0.4.1] - 2021-08-18
+## [0.4.3] - 2021-08-19
+
+Added Breadth-First Search concept
+
+## [0.4.2] - 2021-08-18
 
 Added HashTable concept
 
