@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.4.7] - 2021-08-26
+
+Added K-nearest neighbors concept
+
 ## [0.4.6] - 2021-08-26
 
 Added Dynamic programming concept
