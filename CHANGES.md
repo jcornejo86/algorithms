@@ -1,6 +1,10 @@
 # Changelog
 
-## [0.4.4] - 2021-08-25
+## [0.4.6] - 2021-08-26
+
+Added Dynamic programming concept
+
+## [0.4.5] - 2021-08-25
 
 Added Greedy algorithm concept
 
