@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.4.4] - 2021-08-25
+
+Added Greedy algorithm concept
+
 ## [0.4.4] - 2021-08-24
 
 Added Dijkstra's algorithm concept
